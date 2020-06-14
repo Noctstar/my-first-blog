@@ -28,7 +28,7 @@ DEBUG = True
 ALLOWED_HOSTS = [
     '127.0.0.1',
     'pythonanywhere.com',
-    'noctstar.pythonanywhere.com'
+    'noctstar.pythonanywhere.com',
 ]
 
 
